@@ -36,7 +36,6 @@ namespace CST117_IC08_console
             Console.WriteLine( "A: " + A );
             Console.WriteLine( "B: " + B );
     
-            int a;
         }
     }
 }
